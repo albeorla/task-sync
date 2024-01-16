@@ -17,6 +17,7 @@ crewai = "^0.1.32"
 unstructured = '==0.10.25'
 tools = "^0.1.9"
 duckduckgo-search = "^4.2"
+loguru = "^0.7.2"
 
 
 
